@@ -103,45 +103,5 @@ I'm a Frontend Developer and Freelancer, I have knowledge about MERN STACK devel
   </tr>
 </table>
 
-### Programming Languages:
 
-<table>
-  <tr>
-    <td align="center" height="80" width="80">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-        width="30"
-        height="30"
-        alt="Python"
-      />
-      <br /><strong>Python</strong>
-    </td>
-    <td align="center" height="80" width="80">
-      <img width="30" height="30" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"  width="48" height="48" alt="Java""/>
-      <br /><strong>Java</strong>
-    </td>
-    <td align="center" height="80" width="80">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-        width="30"
-        height="30"
-        alt="C"
-      />
-      <br /><strong>C</strong>
-    </td>
-    <td align="center" height="80" width="80">
-      <img
-        <img width="30" height="30" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"
-        alt="C++"
-      />
-      <br /><strong>C++</strong>
-    </td>
-    <td align="center" height="80" width="80">
-      <img width="30" height="30" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"
-        alt="C#"
-      />
-      <br /><strong>C#</strong>
-    </td>
-  </tr>
-</table>
 
