@@ -97,7 +97,7 @@ I'm a Frontend Developer and Freelancer, I have knowledge about MERN STACK devel
         height="30"
         alt="Firebase"
       />
-      <br /><strong>Firebase</strong>
+      <br /><strong>Appwrite</strong>
     </td>
 
   </tr>
